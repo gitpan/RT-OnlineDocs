@@ -1,0 +1,18 @@
+--- 
+abstract: Display RT API documentation online
+author: Jesse Vincent <jesse@bestpractical.com>
+distribution_type: module
+generated_by: Module::Install version 0.670
+license: GPLv2
+meta-spec: 
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: RT-OnlineDocs
+no_index: 
+  directory: 
+    - html
+    - inc
+    - t
+requires: 
+  Pod::Simple::HTML: 0
+version: 0.05
