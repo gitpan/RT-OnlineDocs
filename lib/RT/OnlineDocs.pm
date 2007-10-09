@@ -4,6 +4,8 @@
 use strict;
 use warnings;
 
-our $VERSION = "0.05";
+package RT::OnlineDocs;
+
+our $VERSION = "0.08";
 
 1;
